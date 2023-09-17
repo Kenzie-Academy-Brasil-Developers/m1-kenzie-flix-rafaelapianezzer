@@ -48,6 +48,12 @@ li:hover {
     list-style: none;   
 }
 
+.box-list {
+    height: auto;
+    width: 100%;
+    margin: 0 auto;
+}
+
 .box img {
     width: 150px; 
     height: 150px; 
